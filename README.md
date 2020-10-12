@@ -17,4 +17,9 @@ C:\Users\KSUIE>ftp 120.114.62.207
 登入失敗。
 ftp>
 ```
-![](./connect2google20201012.pcapng)
+
+
+![wireshark](./connect2google20201012.pcapng)
+
+
+
